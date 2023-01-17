@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Misael",
+      "age": "5",
+      "address": "123 75 St. Los Angeles, Ca. 912204"
+    },
+    {
+      "name": "Carlos",
+      "age": "7",
+      "address": "547 Main St. Glendale, Ca. 912205"
+    },
+    {
+      "name": "Marco",
+      "age": "100",
+      "address": "785 Main St. Los Angeles, Ca. 912209"
+    },
+    {
+      "name": "Pedro",
+      "age": "8",
+      "address": "111 75 St. Glendale, Ca. 912207"
+    },
+    {
+      "name": "Paola",
+      "age": "20",
+      "address": "222 4 St. Los Angeles, Ca. 912202"
+    },
+    {
+      "name": "Karla",
+      "age": "50",
+      "address": "33 75 St. Glendale, Ca. 912200"
+    }
+  ]
+}
