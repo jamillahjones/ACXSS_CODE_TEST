@@ -1,5 +1,5 @@
 # ACXSS CODE TEST
-Welcome to the ACXSS CODE TEST. Your main task here is to create a small endpoint that will read from JSON file and return a JSON object to the frontend to populate the table UI. In addition, the application should be able to handle a small search on users' names and update the table UI based on the results. Keep in mind that we are just looking for EXACT matches. Please, follow the instructions to properly set up your project. If you have any questions, feel free to let us know.
+Welcome to the ACXSS CODE TEST. Your main task here is to create a small endpoint that will read from a JSON file and return a JSON object to the frontend to populate the table UI. In addition, the application should be able to handle a small search on users' names and update the table UI based on the results. Keep in mind that we are just looking for EXACT matches. Please, follow the instructions to properly set up your project. If you have any questions, feel free to let us know.
 
 ## Set up:
 	-> Install a free version of MAMP to be able to run a local Apache server if you do not have it on your system already.
