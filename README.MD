@@ -3,7 +3,7 @@ Welcome to the ACXSS CODE TEST. Your main task here is to create a small endpoin
 
 ## Set up:
 	-> Install a free version of MAMP to be able to run a local Apache server if you do not have it on your system already.
-	-> Once install, update the "Document root" folder to point to the ACXSS_TEST folder on your local machine. You can do so by going to Preferences > Document root > Choose...
+	-> Once installed, update the "Document root" folder to point to the ACXSS_TEST folder on your local machine. You can do so by going to Preferences > Document root > Choose...
 	-> Make sure you are running an Apache Web server and PHP 7.4.21 version and click start
 	-> Go to http://localhost:8888/
 
