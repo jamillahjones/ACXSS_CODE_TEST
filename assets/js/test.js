@@ -1,3 +1,14 @@
+$(document).ready(function(){
+    $("#mySearchBar").on("keyup", function(){
+        var value = $(this).val().toLowerCase();
+        $("#myAwesomeTable tr").filter(function(){
+            $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+        });
+    });
+});
+
+
+
 var response = new Object();
 $.ajax({
     type:"POST",  //Request type
