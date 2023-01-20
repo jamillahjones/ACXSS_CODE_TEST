@@ -6,7 +6,7 @@ try {
     // Decode the JSON file 
     $json_data = json_decode($json,true); 
 
-    $payload = array();
+    $payload = array($json_data);
 
     $responseArray = array("success" => true ,"data" => $payload);
     $result = json_encode($responseArray);
